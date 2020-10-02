@@ -1,5 +1,5 @@
 # cudaRayTracer
-A naive (but heavily parralelized!) raytracer, created using CUDA and openGL. 
+A naive (but heavily parallelized!) raytracer, created using CUDA and openGL. 
 
 This was created as a proof of concept to learn CUDA and openGL interop. 
 
